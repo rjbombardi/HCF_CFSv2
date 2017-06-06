@@ -1,4 +1,5 @@
 # HCF_CFSv2
+# The Heated Condensation Framework (HCF) convective trigger function implemented into the CFSv2 model.
 
 The bcltrigger.f is a subroutine that calculates the Heathed Condensation Framework (HCF; Tawfik et al. 2014,2015a,b) trigger as published in Bombardi et al. (2016).
 
