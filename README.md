@@ -18,7 +18,3 @@ study, J. Hydrometeorol., 16, 1929-1945, DOI 10.1175/JHM-D-14-0117.1.
 
 Tawfik, A. B., P. A. Dirmeyer, and J. A. Santanello, 2015b: The heated condensation framework. Part II: Climatological behavior of convective
 initiation and land-atmosphere coupling over the Conterminous United States, J. Hydrometeorol., 16, 1946-1961, DOI:10.1175/JHM-D-14-0118.1.
-
-Tyrlis, E., and B. J. Hoskins, 2015: Aspects of a Northern Hemisphere Atmospheric Blocking Climatology. J. Atmos. Sci., 65, 1638-1652. DOI:
-http://dx.doi.org/10.1175/2007JAS2337.1
-
